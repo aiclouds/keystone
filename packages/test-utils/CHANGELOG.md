@@ -1,5 +1,12 @@
 # @keystonejs/test-utils
 
+## 5.0.2
+
+### Patch Changes
+
+- Updated dependencies [[`44b2bc93`](https://github.com/keystonejs/keystone/commit/44b2bc938fd508ac75f6a9cbb364006b9f122711), [`860dabec`](https://github.com/keystonejs/keystone/commit/860dabecacdf81aa1563cea9a5d50add8623dac1), [`a3fdc50e`](https://github.com/keystonejs/keystone/commit/a3fdc50ebb61b38814816804b04d7cb4bc0fc70a), [`da62aa4a`](https://github.com/keystonejs/keystone/commit/da62aa4a0af9cf27fd59fdcfb6b960e24999254d)]:
+  - @keystonejs/adapter-knex@6.0.0
+
 ## 5.0.1
 
 ### Patch Changes
